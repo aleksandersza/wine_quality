@@ -1,5 +1,3 @@
-Repository will consist of a few data science projects. Data is stored in data directory. Each analysis is in separate notebook, with EDA and models used.
-
 # Wine Classification
 The notebook consists of two approaches: regression and classification. The aim was to a) predict the score of a wine from available data b) predict whether the wine was good. Using different methods, xgboost proved to be the best for both approaches.
 
